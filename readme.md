@@ -37,7 +37,7 @@ The pre-release of this project will be on the dashboard of [our official site](
 Contributions are always welcome!
 
 
-# Sister-projects
+## Sister-projects
 
 - [Chroma-Bakvet](https://github.com/Boricraft-Developmont/Chroma-Bakvet) (The default browser of BorOS)
 
