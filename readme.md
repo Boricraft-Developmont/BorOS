@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
 
-# Project Title
+# BorOS
 
 BorOS is a open-source operating system based on the arch-linux distro. BorOS is focused on security and speed.
 ## Authors
