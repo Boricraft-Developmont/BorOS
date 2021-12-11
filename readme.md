@@ -21,7 +21,6 @@ People that have contributed to BorOS, but aren't a part of Boricraft Developmen
 - This could be you!
 
 
-
 ## Pre-release
 
 The pre-release of this project will be on the dashboard of [our official site](https://github.com/Boricraft-Developmont/BorOS)!
@@ -42,12 +41,10 @@ Contributions are always welcome!
 - [Chroma-Bakvet](https://github.com/Boricraft-Developmont/Chroma-Bakvet) (The default browser of BorOS)
 
 
-## Website
+## Contact
 
 Visit [our official website](https://borisjeletich.nl/) for more information or support.
-## Support
-
-For support, email support@borisjeletich.nl or join our [Discord Server](https://discord.gg/7QUxbsSJsN).
+Contact us at, support@borisjeletich.nl or join our [Discord Server](https://discord.gg/7QUxbsSJsN).
 
 
 ## Feedback
