@@ -38,7 +38,7 @@ Contributions are always welcome!
 
 ## Sister-projects
 
-- [Chroma-Bakvet](https://github.com/Boricraft-Developmont/Chroma-Bakvet) (The default browser of BorOS)
+- [Chroma-Bakvet](https://github.com/Boricraft-Developmont/Chroma-Bakvet) (The default browser for BorOS)
 
 
 ## Contact
